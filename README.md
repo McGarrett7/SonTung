@@ -1,6 +1,4 @@
-# SonTung
-Some exercise of Playwright with Python course
-
+# Pkaywright with Python course
 ### Installation
 Clone the repository:
 ```sh
