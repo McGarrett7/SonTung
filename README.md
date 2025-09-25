@@ -1,4 +1,4 @@
-# Pkaywright with Python course
+# Playwright with Python course
 ### Installation
 Clone the repository:
 ```sh
