@@ -3,7 +3,7 @@
 Clone the repository:
 ```sh
 git clone 
-cd your-project-name
+cd SonTung-Playwright-Python
 ```
 
 ### Create and activate a virtual environment
